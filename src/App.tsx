@@ -1,4 +1,3 @@
-import React from "react";
 import { WordSearch } from "./components/WordSearch";
 import { DefinitionDisplay } from "./components/DefinitionDisplay";
 import "./App.css";
